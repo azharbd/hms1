@@ -17,3 +17,5 @@ C:\Users\Bdjobs\Downloads\hms\hms\hms\obj\x86\Debug\hms.exe
 C:\Users\Bdjobs\Downloads\hms\hms\hms\obj\x86\Debug\hms.pdb
 E:\Drive F\Azhar Office\Personal Documents\HMS\hms\obj\x86\Debug\hms.exe
 E:\Drive F\Azhar Office\Personal Documents\HMS\hms\obj\x86\Debug\hms.pdb
+D:\HMS1\hms1\obj\x86\Debug\hms.exe
+D:\HMS1\hms1\obj\x86\Debug\hms.pdb
